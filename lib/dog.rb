@@ -7,3 +7,6 @@ class Dog
     @name 
   end
 end 
+
+Daisy = Dog.new("Daisy")
+Daisy.name 
