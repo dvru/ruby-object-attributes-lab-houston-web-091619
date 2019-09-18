@@ -9,3 +9,4 @@ class Person
 end 
 
 paul = Person.new("Paul")
+paul.name 
