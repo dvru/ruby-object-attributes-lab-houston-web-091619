@@ -8,8 +8,8 @@ class Dog
   end
 end 
 
-Daisy = Dog.new("Daisy")
-Daisy.name = "Daisy"
+daisy = Dog.new("Daisy")
+daisy.name = "Daisy"
 
   def initialize(breed)
     @breed = breed 
