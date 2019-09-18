@@ -20,3 +20,6 @@ paul.name = "Paul"
     @job 
   end 
 end 
+
+developer = Person.new("Developer")
+developer.job = "Developer"
