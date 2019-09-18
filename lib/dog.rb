@@ -20,5 +20,5 @@ daisy.name = "Daisy"
   end 
 end 
 
-pug = Dog.new("pug")
-pug.breed = "pug"
+pug = Dog.new("Pug")
+pug.breed = "Pug"
