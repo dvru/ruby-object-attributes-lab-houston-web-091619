@@ -9,4 +9,6 @@ class Person
 end 
 
 paul = Person.new("Paul")
-paul.name 
+paul.name = "Paul"
+
+  def
